@@ -2,6 +2,7 @@
 
 Proyek ini bertujuan untuk mentransformasi data transaksi mentah dari retail online non-toko berbasis di Inggris menjadi strategi pemasaran yang terukur dengan metode **RFM (Recency, Frequency, Monetary)**.
 ---
+<image src="https://github.com/dianpransisko/Data-Analyst-Proj/blob/main/bi.png" >
 
 ### 🚀 Problem Statement
 * **Identifikasi Loyalitas:** Manajemen kesulitan membedakan pelanggan setia dari pelanggan pasif.
