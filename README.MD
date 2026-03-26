@@ -1,7 +1,6 @@
 # 📊 E-Commerce Customer Segmentation (RFM Analysis)
 
 Proyek ini bertujuan untuk mentransformasi data transaksi mentah dari retail online non-toko berbasis di Inggris menjadi strategi pemasaran yang terukur dengan metode **RFM (Recency, Frequency, Monetary)**.
-Note: Karena keterbatasan data harga pokok penjualan (HPP/COGS), indikator "Margin" didekati melalui nilai "Revenue".
 ---
 
 ### 🚀 Problem Statement
@@ -63,3 +62,6 @@ Note: Karena keterbatasan data harga pokok penjualan (HPP/COGS), indikator "Marg
 │   └── rfm_analysis.py     # RFM Logic
 ├── dashboard/              # Power BI (.pbix) file
 └── README.md               # Project documentation
+
+### 
+---Note: Karena keterbatasan data harga pokok penjualan (HPP/COGS), indikator "Margin" didekati melalui nilai "Revenue".
