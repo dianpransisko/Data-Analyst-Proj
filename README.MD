@@ -1,4 +1,4 @@
-# 📊 E-Commerce Customer Segmentation (RFM Analysis)
+# 📊 E-Commerce Customer Segmentation (RFM Analysis) <a href="https://doi.org/10.5281/zenodo.19233576"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19233576.svg" alt="DOI"></a>
 
 Proyek ini bertujuan untuk mentransformasi data transaksi mentah dari retail online non-toko berbasis di Inggris menjadi strategi pemasaran yang terukur dengan metode **RFM (Recency, Frequency, Monetary)**.
 ---
